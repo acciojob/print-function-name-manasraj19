@@ -1,7 +1,7 @@
 //your JS code here. If required.
-function printMyName() {
+function functionName() {
     alert(arguments.callee.name);
   }
   
-  printMyName(); // Output: printMyName
+	functionName(); // Output: printMyName
   
